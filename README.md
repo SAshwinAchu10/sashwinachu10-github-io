@@ -1,7 +1,3 @@
-# Hydejack Starter Kit
-
-A quicker, cleaner way to get started blogging with [Hydejack](https://hydejack.com/).
-
 ## Quick Start
 ### Running locally
 1. Clone repository (git users), or [download] and unzip.
