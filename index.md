@@ -1,13 +1,13 @@
 ## Welcome 
 
-Myself Ashwin S, A [Full stack developer](www.facebook.com/AshwinAchu10) from Chennai, India. 
+Myself Ashwin S, A [Full stack developer](www.instagram.com/ashwinachu10) from Chennai, India. 
 
-I used to work on various technologies such as Javascript, Python, Java, Ruby.
+I used to work on various technologies such as JS,TS, Python, Java, Ruby.
 
 
 ### Profile
 
-# Office - 10Decoders Chennai
-# Role - Senior Developer
-# Age - 23
+# Office - Wekan Enterprises
+# Role - Senior S/W Developer
+# Age - 25
 
