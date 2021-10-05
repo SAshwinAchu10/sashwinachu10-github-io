@@ -1,6 +1,6 @@
 ## Welcome 
 
-Myself Ashwin S, A [Full stack developer](www.instagram.com/ashwinachu10) from Chennai, India. 
+Myself Ashwin S, A [Full stack developer](https://www.instagram.com/ashwinachu10) from Chennai, India. 
 
 I used to work on various technologies such as JS,TS, Python, Java, Ruby.
 
